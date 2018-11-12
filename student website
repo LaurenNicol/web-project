@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<title>W3.CSS Template</title>
+<title>Student Website</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
@@ -25,10 +25,10 @@
  <div class="w3-bar w3-theme-d2 w3-left-align">
   <a class="w3-bar-item w3-button w3-hide-medium w3-hide-large w3-right w3-hover-white w3-theme-d2" href="javascript:void(0);" onclick="openNav()"><i class="fa fa-bars"></i></a>
   <a href="#" class="w3-bar-item w3-button w3-teal"><i class="fa fa-home w3-margin-right"></i>Logo</a>
-  <a href="#about" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Team</a>
-  <a href="#goingout" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Work</a>
-  <a href="#stayingin" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Price</a>
-  <a href="#subscribe" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Contact</a>
+  <a href="#about" class="w3-bar-item w3-button w3-hide-small w3-hover-white">About</a>
+  <a href="#goingout" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Going Out</a>
+  <a href="#stayingin" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Staying In</a>
+  <a href="#subscribe" class="w3-bar-item w3-button w3-hide-small w3-hover-white">Subscribe</a>
     <div class="w3-dropdown-hover w3-hide-small">
     <button class="w3-button" title="Notifications">Dropdown <i class="fa fa-caret-down"></i></button>
     <div class="w3-dropdown-content w3-card-4 w3-bar-block">
@@ -42,10 +42,10 @@
 
   <!-- Navbar on small screens -->
   <div id="navDemo" class="w3-bar-block w3-theme-d2 w3-hide w3-hide-large w3-hide-medium">
-    <a href="#about" class="w3-bar-item w3-button">Team</a>
-    <a href="#goingout" class="w3-bar-item w3-button">Work</a>
-    <a href="#stayingin" class="w3-bar-item w3-button">Price</a>
-    <a href="#subscribe" class="w3-bar-item w3-button">Contact</a>
+    <a href="#about" class="w3-bar-item w3-button">About</a>
+    <a href="#goingout" class="w3-bar-item w3-button">Going Out</a>
+    <a href="#stayingin" class="w3-bar-item w3-button">Staying In</a>
+    <a href="#subscribe" class="w3-bar-item w3-button">Subscribe</a>
     <a href="#" class="w3-bar-item w3-button">Search</a>
   </div>
 </div>
