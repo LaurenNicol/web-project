@@ -51,7 +51,7 @@
 
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
-  <img src="FINSIHED/leeds.jpeg" alt="leeds" style="width:100%;min-height:350px;max-height:600px;">
+  <img src="leeds.jpeg" alt="leeds" style="width:100%;min-height:350px;max-height:600px;">
   <div class="w3-container w3-display-bottomleft w3-margin-bottom">
   </div>
 </div>
@@ -64,19 +64,19 @@
 <div class="w3-row"><br>
 
 <div class="w3-quarter">
-  <img src="FINISHED/MOLLIE.png" alt="Mollie" style="width:45%" class="w3-circle w3-hover-opacity">
+  <img src="MOLLIE.png" alt="Mollie" style="width:45%" class="w3-circle w3-hover-opacity">
   <h3>Mollie</h3>
   <p>Third year Media Communications and Cultures student from Peterborough. My fav nights are casual pub nights as well as big beaver works events. I also enjoy 'the big night in' with housemates!</p>
 </div>
 
 <div class="w3-quarter">
-  <img src="FINISHED/MEGAN.jpg" alt="Megan" style="width:45%" class="w3-circle w3-hover-opacity">
+  <img src="MEGAN.jpg" alt="Megan" style="width:45%" class="w3-circle w3-hover-opacity">
   <h3>Megan</h3>
   <p> Third year English Literature student from Newcastle! My fav night out is Funk Wednesday's at Hifi and I love a netflix binge with my housemates!</p>
 </div>
 
 <div class="w3-quarter">
-  <img src="FINISHED/LAUREN.jpeg" alt="Lauren" style="width:45%" class="w3-circle w3-hover-opacity">
+  <img src="LAUREN.jpeg" alt="Lauren" style="width:45%" class="w3-circle w3-hover-opacity">
   <h3>Lauren</h3>
   <p> Marketing Management</p>
 </div>
@@ -93,7 +93,7 @@
 
 <div class="w3-quarter">
 <div class="w3-card w3-white">
-  <img src="FINISHED/Vk.jpg" alt="Pryzm" style="width:100%">
+  <img src="Vk.jpg" alt="Pryzm" style="width:100%">
   <div class="w3-container">
   <h3>Monday</h3>
   <h4>Pryzm</h4>
@@ -105,7 +105,7 @@
 
 <div class="w3-quarter">
 <div class="w3-card w3-white">
-  <img src="FINISHED/SPACE.jpg" alt="space" style="width:100%">
+  <img src="SPACE.jpg" alt="space" style="width:100%">
   <div class="w3-container">
   <h3>Tuesday</h3>
   <h4>Space</h4>
@@ -117,7 +117,7 @@
 
 <div class="w3-quarter">
 <div class="w3-card w3-white">
-  <img src="FINISHED/ANTICS.jpg" alt="antics" style="width:100%">
+  <img src="ANTICS.jpg" alt="antics" style="width:100%">
   <div class="w3-container">
   <h3>Webnesday</h3>
   <h4>Pryzm</h4>
