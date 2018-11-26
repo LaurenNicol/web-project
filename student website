@@ -51,7 +51,7 @@
 
 <!-- Image Header -->
 <div class="w3-display-container w3-animate-opacity">
-  <img src="/images/leeds.jpg" alt="leeds" style="width:100%;min-height:350px;max-height:600px;">
+  <img src="/CODEFIRST/IMAGES/leeds" alt="leeds" style="width:100%;min-height:350px;max-height:600px;">
   <div class="w3-container w3-display-bottomleft w3-margin-bottom">
   </div>
 </div>
@@ -64,21 +64,20 @@
 <div class="w3-row"><br>
 
 <div class="w3-quarter">
-  <img src="/CODE FIRST/MOLLIE.png" alt="mollie" style="width:45%" class="w3-circle w3-hover-opacity">
+  <img src="/w3images/avatar.jpg" alt="Boss" style="width:45%" class="w3-circle w3-hover-opacity">
   <h3>Mollie</h3>
-  <p>Media Communications and Cultures</p>
+  <p></p>
 </div>
 
 <div class="w3-quarter">
-  <img src="/CODE FIRST/MEGAN.jpg" alt="megan" style="width:45%" class="w3-circle w3-hover-opacity">
+  <img src="/w3images/avatar.jpg" alt="Boss" style="width:45%" class="w3-circle w3-hover-opacity">
   <h3>Megan</h3>
   <p> Third year English Literature student from Newcastle! My fav night out is Funk Wednesday's at Hifi and I love a netflix binge with my housemates!</p>
 </div>
 
 <div class="w3-quarter">
-  <img src="/CODE FIRST/LAUREN.jpeg" alt="Lauren" style="width:45%" class="w3-circle w3-hover-opacity">
+  <img src="/w3images/avatar.jpg" alt="Boss" style="width:45%" class="w3-circle w3-hover-opacity">
   <h3>Lauren</h3>
-  <p> Marketing Management </p>
 </div>
 
 </div>
@@ -88,12 +87,12 @@
 
 <div class="w3-quarter">
 <h2>Going Out</h2>
-<p>In Leeds you've got something for everyone! From Popworld, to Call Lane to Stone Roses Bar.</p>
+<p>Write summary of leeds nightlife</p>
 </div>
 
 <div class="w3-quarter">
 <div class="w3-card w3-white">
-  <img src="/CODE FIRST/Vk.jpeg" alt="VKS" style="width:100%">
+  <img src="Pictures/vk.jpg" alt="Pryzm" style="width:100%">
   <div class="w3-container">
   <h3>Monday</h3>
   <h4>Pryzm</h4>
@@ -105,7 +104,7 @@
 
 <div class="w3-quarter">
 <div class="w3-card w3-white">
-  <img src="/CODE FIRST/SPACE.jpg" alt="SPACE" style="width:100%">
+  <img src="/w3images/lights.jpg" alt="Lights" style="width:100%">
   <div class="w3-container">
   <h3>Tuesday</h3>
   <h4>Space</h4>
@@ -117,7 +116,7 @@
 
 <div class="w3-quarter">
 <div class="w3-card w3-white">
-  <img src="/CODE FIRST/ANTICS.jpg" alt="antics" style="width:100%">
+  <img src="/w3images/mountains.jpg" alt="Mountains" style="width:100%">
   <div class="w3-container">
   <h3>Webnesday</h3>
   <h4>Pryzm</h4>
@@ -144,13 +143,7 @@
         <li class="w3-theme">
           <p class="w3-xlarge">Movie Night</p>
         </li>
-        <li class="w3-padding-16"><b></b> Cult Classics</li>
-        <li class="w3-padding-16"><b>10</b> Emails</li>
-        <li class="w3-padding-16"><b>10</b> Domains</li>
-        <li class="w3-padding-16"><b>Endless</b> Support</li>
-        <li class="w3-padding-16">
-          <h2 class="w3-wide"><i class="fa fa-usd"></i> 10</h2>
-          <span class="w3-opacity">per month</span>
+          <span class="w3-opacity">
         </li>
         <li class="w3-theme-l5 w3-padding-24">
           <button class="w3-button w3-teal w3-padding-large"><i class="fa fa-check"></i> MY FAV</button>
@@ -163,14 +156,6 @@
         <li class="w3-theme-l2">
           <p class="w3-xlarge">Games Night</p>
         </li>
-        <li class="w3-padding-16"><b>25GB</b> Storage</li>
-        <li class="w3-padding-16"><b>25</b> Emails</li>
-        <li class="w3-padding-16"><b>25</b> Domains</li>
-        <li class="w3-padding-16"><b>Endless</b> Support</li>
-        <li class="w3-padding-16">
-          <h2 class="w3-wide"><i class="fa fa-usd"></i> 25</h2>
-          <span class="w3-opacity">per month</span>
-        </li>
         <li class="w3-theme-l5 w3-padding-24">
           <button class="w3-button w3-teal w3-padding-large"><i class="fa fa-check"></i>MY FAV</button>
         </li>
@@ -181,14 +166,6 @@
       <ul class="w3-ul w3-border w3-hover-shadow">
         <li class="w3-theme">
           <p class="w3-xlarge">House Meal</p>
-        </li>
-        <li class="w3-padding-16"><b>50GB</b> Storage</li>
-        <li class="w3-padding-16"><b>50</b> Emails</li>
-        <li class="w3-padding-16"><b>50</b> Domains</li>
-        <li class="w3-padding-16"><b>Endless</b> Support</li>
-        <li class="w3-padding-16">
-          <h2 class="w3-wide"><i class="fa fa-usd"></i> 50</h2>
-          <span class="w3-opacity">per month</span>
         </li>
         <li class="w3-theme-l5 w3-padding-24">
           <button class="w3-button w3-teal w3-padding-large"><i class="fa fa-check"></i>MY FAV</button>
@@ -205,8 +182,7 @@
       <h3>Leeds Beckett University (City Campus)</h3>
       <p>Email us with your fresher stories, tips or warnings for new Beckett students!.</p>
       <p><i class="fa fa-map-marker w3-text-teal w3-xlarge"></i>  Leeds, UK</p>
-      <p><i class="fa fa-phone w3-text-teal w3-xlarge"></i>  +00 1515151515</p>
-      <p><i class="fa fa-envelope-o w3-text-teal w3-xlarge"></i>  test@test.com</p>
+      <p><i class="fa fa-envelope-o w3-text-teal w3-xlarge"></i>  studentguide@leedsbeckett.ac.uk</p>
     </div>
     <div class="w3-col m7">
       <form class="w3-container w3-card-4 w3-padding-16 w3-white" action="/action_page.php" target="_blank">
